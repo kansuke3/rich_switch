@@ -1,0 +1,1 @@
+g++ -o ./build/test ./test/main.cpp -Wall -Wextra
